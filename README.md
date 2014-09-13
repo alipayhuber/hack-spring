@@ -1,1 +1,0 @@
-h1. Welcome to Spring Framework! Learn it from 3.2.11
